@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rupali.bank</groupId>
-	<artifactId>pdf-to-excel</artifactId>
+	<artifactId>pdf-to-excel</artifactId> 
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pdf-to-excel</name>
 	<description>Demo project for Spring Boot</description>
